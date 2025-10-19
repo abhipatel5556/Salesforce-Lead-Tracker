@@ -1,0 +1,14 @@
+UI Description – Lead Qualification Page
+
+1. Visualforce Page: LeadQualificationPage.page
+   - Displays detailed lead information.
+   - Includes a “Qualify Lead” button for manual triggering.
+   - Shows dynamic status and recommendations.
+
+2. Apex Controller: LeadQualificationController.cls
+   - Fetches lead data and binds it to the Visualforce page.
+   - Handles UI button actions and invokes Apex logic.
+   - Returns updated qualification results to the page dynamically.
+
+Goal:
+Provide an intuitive interface for sales reps to view, qualify, and manage leads efficiently without switching between multiple pages.

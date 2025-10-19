@@ -1,0 +1,12 @@
+Salesforce Org Setup Steps
+
+1. Create a new Salesforce Developer Org from developer.salesforce.com.
+2. Enable Developer Mode and App Builder from Setup → User Interface.
+3. Create a new App named “Lead Tracker”.
+4. Create a Custom Tab for the Lead object.
+5. Assign appropriate permissions to profiles (Sales User, Admin).
+6. Enable necessary objects: Lead, Contact, Opportunity.
+7. Set up Record Types and Page Layouts for Lead Qualification.
+8. Configure Email Deliverability (Setup → Deliverability → All Emails).
+9. Add the Visualforce page tab for Lead Qualification UI.
+10. Test login access and verify sandbox deployment readiness.

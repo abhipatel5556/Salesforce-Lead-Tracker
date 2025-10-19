@@ -1,0 +1,12 @@
+Reporting and Dashboard Notes
+
+Reports:
+1. Qualified Leads Report – Displays all leads marked as Qualified with filters for industry and region.
+2. Disqualified Leads Report – Tracks leads that failed qualification criteria.
+
+Dashboards:
+1. Sales Dashboard – Visual summary of total leads, qualified percentage, conversion rate, and monthly trends.
+2. Opportunity Conversion Dashboard – Shows conversion rates and potential revenue from qualified leads.
+
+Purpose:
+Enable data-driven decision-making and provide actionable insights to the sales team through real-time analytics.

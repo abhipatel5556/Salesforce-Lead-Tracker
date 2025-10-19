@@ -1,0 +1,15 @@
+Apex Code Description
+
+1. LeadQualificationHandler.cls
+   - Contains business logic for lead qualification.
+   - Evaluates lead criteria (Score, Source, Industry).
+   - Updates Qualification_Status__c field accordingly.
+
+2. LeadQualificationTrigger.trigger
+   - Executes on after insert and after update events.
+   - Invokes LeadQualificationHandler for automatic processing.
+   - Ensures no duplication of logic in Flow and Apex.
+
+Purpose:
+Apex is used for advanced logic handling where declarative Flow automation is insufficient, ensuring scalability and maintainability.
+

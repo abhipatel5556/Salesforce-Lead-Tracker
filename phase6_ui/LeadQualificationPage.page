@@ -1,0 +1,7 @@
+<apex:page controller="LeadQualificationController">
+    <h1>Lead Qualification Page</h1>
+    <apex:form>
+        <apex:inputField value="{!leadRecord.Name}" />
+        <apex:commandButton value="Mark as Qualified" action="{!markQualified}" />
+    </apex:form>
+</apex:page>

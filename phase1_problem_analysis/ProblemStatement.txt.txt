@@ -1,0 +1,11 @@
+Problem Statement – Salesforce Lead Tracker
+
+In many organizations, tracking and qualifying leads is a manual and inconsistent process. Sales representatives often fail to update lead statuses promptly, resulting in missed opportunities, duplicate entries, and low conversion accuracy.
+
+To overcome these challenges, the Salesforce Lead Tracker project aims to automate the lead qualification and tracking process using Salesforce Flow, Apex triggers, and Visualforce components. The system will automatically categorize and qualify leads based on predefined criteria such as lead score, industry, and interest level. 
+
+Objectives:
+1. Automate lead qualification to reduce manual errors.
+2. Ensure real-time updates of lead records.
+3. Provide sales teams with clear insights through dashboards and reports.
+4. Improve productivity and overall lead management efficiency.
